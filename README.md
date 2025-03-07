@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/da944ba0-b226-4238-b483-12bd755c6cd4" alt="alerTime">
 </p>
+
 # Angular Application - Setup and Execution Guide
 
 ## Prerequisites
